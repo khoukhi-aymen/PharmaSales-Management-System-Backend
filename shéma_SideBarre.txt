@@ -1,0 +1,9 @@
+Stock → gérer l’inventaire des produits.
+
+Commandes → regrouper toutes les commandes :
+
+Commande client → saisie et suivi des commandes des clients, impression bon de livraison et facture.
+
+Commande fournisseur → saisie des commandes pour acheter aux fournisseurs et suivi de l’entrée des produits dans le stock.
+
+Cette organisation est propre, claire et professionnelle. Elle suit le flux réel d’une pharmacie ou laboratoire.
